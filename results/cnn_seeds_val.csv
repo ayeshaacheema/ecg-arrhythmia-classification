@@ -1,0 +1,7 @@
+model,macro_f1,ab_precision,ab_recall,recall_S,recall_V,recall_F,variant
+cnn_A_beat_seed42,0.7777,0.8281,0.4354,0.1013,0.7013,0.2353,cnn_A
+cnn_B_beat_rr_seed42,0.8749,0.7976,0.7269,0.489,0.9463,0.0588,cnn_B
+cnn_A_beat_seed1,0.7284,0.752,0.3469,0.1542,0.5034,0.1765,cnn_A
+cnn_B_beat_rr_seed1,0.8451,0.7056,0.703,0.7137,0.7315,0.0588,cnn_B
+cnn_A_beat_seed2,0.721,0.9645,0.3007,0.0044,0.5302,0.2353,cnn_A
+cnn_B_beat_rr_seed2,0.824,0.9388,0.5092,0.1101,0.8423,0.0,cnn_B

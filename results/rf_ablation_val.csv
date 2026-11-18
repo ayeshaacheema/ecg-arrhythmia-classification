@@ -1,0 +1,4 @@
+features,macro_f1,ab_precision,ab_recall,recall_S,recall_V,recall_F
+RR only (timing),0.9001,0.8966,0.7362,0.8282,0.7081,0.0
+Shape only,0.5336,0.1092,0.452,0.1233,0.7181,0.1765
+RR + shape,0.9367,0.993,0.7878,0.7885,0.8322,0.0

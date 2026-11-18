@@ -1,0 +1,6 @@
+model,macro_f1,ab_precision,ab_recall,recall_S,recall_V,recall_F
+RF: RR only (timing),0.9001,0.8966,0.7362,0.8282,0.7081,0.0
+RF: Shape only,0.5336,0.1092,0.452,0.1233,0.7181,0.1765
+RF: RR + shape,0.9367,0.993,0.7878,0.7885,0.8322,0.0
+cnn_A_beat_seed42,0.7777,0.8281,0.4354,0.1013,0.7013,0.2353
+cnn_B_beat_rr_seed42,0.8749,0.7976,0.7269,0.489,0.9463,0.0588

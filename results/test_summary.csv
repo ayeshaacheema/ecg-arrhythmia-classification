@@ -1,0 +1,7 @@
+,macro_f1,macro_f1,ab_precision,ab_precision,ab_recall,ab_recall,recall_S,recall_S,recall_V,recall_V,recall_F,recall_F
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+model,,,,,,,,,,,,
+CNN A,0.701,0.03,0.432,0.095,0.561,0.054,0.069,0.074,0.885,0.047,0.14,0.038
+CNN B,0.861,0.044,0.788,0.155,0.737,0.059,0.433,0.156,0.975,0.013,0.167,0.098
+Lazy,0.47,,0.0,,0.0,,0.0,,0.0,,0.0,
+RF,0.748,,0.469,,0.719,,0.195,,0.983,,0.943,
