@@ -341,6 +341,6 @@ ECG_Arrhythmia_Classification/
 ---
 
 ## 👤 Author
-**Your Name** · BS Computer Science · [LinkedIn](#) · [Email](#)
+**Ayesha Cheema** · BS Computer Science · [https://www.linkedin.com/in/ayesha-cheema-24bab6356/](#) 
 
 *Built as an independent research project. Feedback and questions welcome via Issues.*
